@@ -1,0 +1,38 @@
+
+body{
+    background-color: #FAE6F5;
+}
+.mt-18{
+    margin-top: 18px;
+}
+
+.bg-brand{
+    background-color: #fff;
+    color: azure;
+}
+
+
+
+
+.hero-section {
+    background-image: url('../image/PRO-BACKGROUND.webp');
+    background-size: cover;
+    background-position: center;
+    padding: 100px 0;
+    text-align: center;
+}
+
+.gallery img {
+    transition: transform 0.2s ease-in-out;
+}
+
+.gallery img:hover {
+    transform: scale(1.05);
+}
+
+#PRO-BTN {
+    margin-top: 300px;
+    background-color: aliceblue;
+    color: #000;
+    border-color: #000;
+}
