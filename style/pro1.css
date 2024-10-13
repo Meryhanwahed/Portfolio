@@ -15,9 +15,6 @@ body{
 
 
 .hero-section {
-    background-image: url('../image/PRO-BACKGROUND.webp');
-    background-size: cover;
-    background-position: center;
     padding: 100px 0;
     text-align: center;
 }
